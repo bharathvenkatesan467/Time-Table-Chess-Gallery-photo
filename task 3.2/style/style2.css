@@ -1,0 +1,16 @@
+tr{
+    padding-left: 10px;
+}
+td{
+    padding-left:20px ;
+}
+body{
+    background-color: skyblue;
+}
+table{
+    padding: 0% 25%;
+}
+.head{
+    background-color: azure;
+    text-align: center;
+}
